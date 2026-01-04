@@ -15,6 +15,7 @@ for improving future events.
 - Natural Language Processing (Sentiment Analysis)
 - Word Cloud
 - Google Colab
+- TextBlob
 
 ---
 
